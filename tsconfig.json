@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "strict": true,
+    "target": "ES6",
+    "types": [
+      "cypress"
+    ],
+    "forceConsistentCasingInFileNames": true,
+    "module": "CommonJS",
+    "noUnusedLocals": true,
+    "noImplicitReturns": true,
+    "noUnusedParameters": true,
+    "esModuleInterop": true
+  },
+  "include": [
+    "**/*.ts"
+  ]
+}
